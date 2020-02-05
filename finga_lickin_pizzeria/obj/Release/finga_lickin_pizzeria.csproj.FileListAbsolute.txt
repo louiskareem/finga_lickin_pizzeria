@@ -1,0 +1,15 @@
+C:\Users\Gebruiker\source\repos\finga_lickin_pizzeria\finga_lickin_pizzeria\bin\Release\finga_lickin_pizzeria.exe.config
+C:\Users\Gebruiker\source\repos\finga_lickin_pizzeria\finga_lickin_pizzeria\bin\Release\finga_lickin_pizzeria.exe
+C:\Users\Gebruiker\source\repos\finga_lickin_pizzeria\finga_lickin_pizzeria\bin\Release\finga_lickin_pizzeria.pdb
+C:\Users\Gebruiker\source\repos\finga_lickin_pizzeria\finga_lickin_pizzeria\bin\Release\SimpleTCP.dll
+C:\Users\Gebruiker\source\repos\finga_lickin_pizzeria\finga_lickin_pizzeria\obj\Release\finga_lickin_pizzeria.CashierView.resources
+C:\Users\Gebruiker\source\repos\finga_lickin_pizzeria\finga_lickin_pizzeria\obj\Release\finga_lickin_pizzeria.ClientTableView.resources
+C:\Users\Gebruiker\source\repos\finga_lickin_pizzeria\finga_lickin_pizzeria\obj\Release\finga_lickin_pizzeria.Properties.Resources.resources
+C:\Users\Gebruiker\source\repos\finga_lickin_pizzeria\finga_lickin_pizzeria\obj\Release\finga_lickin_pizzeria.TcpClient.resources
+C:\Users\Gebruiker\source\repos\finga_lickin_pizzeria\finga_lickin_pizzeria\obj\Release\finga_lickin_pizzeria.TcpServer.resources
+C:\Users\Gebruiker\source\repos\finga_lickin_pizzeria\finga_lickin_pizzeria\obj\Release\finga_lickin_pizzeria.csproj.GenerateResource.cache
+C:\Users\Gebruiker\source\repos\finga_lickin_pizzeria\finga_lickin_pizzeria\obj\Release\finga_lickin_pizzeria.csproj.CopyComplete
+C:\Users\Gebruiker\source\repos\finga_lickin_pizzeria\finga_lickin_pizzeria\obj\Release\finga_lickin_pizzeria.exe
+C:\Users\Gebruiker\source\repos\finga_lickin_pizzeria\finga_lickin_pizzeria\obj\Release\finga_lickin_pizzeria.pdb
+C:\Users\Gebruiker\source\repos\finga_lickin_pizzeria\finga_lickin_pizzeria\obj\Release\finga_lickin_pizzeria.csprojAssemblyReference.cache
+C:\Users\Gebruiker\source\repos\finga_lickin_pizzeria\finga_lickin_pizzeria\obj\Release\finga_lickin_pizzeria.CookView.resources
